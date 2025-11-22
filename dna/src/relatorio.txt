@@ -1,0 +1,805 @@
+Relatório
+Data: 2025-11-09T13:08:41.371056900
+Parâmetros de pontuação: Similar = 1 Não similar = -1 Diferenças = -2
+ =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  = 
+
+>>> Derivada #1 (len =101)
+Pontuação: 53
+ACCTTCCG-CTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATC-GGGGGGGACACACCATCGGTACGTCG-CCCCGCATAGC-AGAATGTCCACGCG
+|||||||| |||||||.|||||.|||.|||..||||||||||.||||.|| ||||||.||||||.|.||| ||| || |||||||.||| .|.| |.|.|||||
+ACCTTCCGTCTCTAGGGTGGGTGGCGGACCGCCTGTGAATCTTTTCGCTCAGGGGGGTACACACAAACGG-ACG-CGTCCCCGCAGAGCGTGGA-GCCAACGCG
+Similar = 82  Não similar = 15  Diferenças = 7  |  % identidade = 84,54%
+------------------------------------------------------------------------
+
+>>> Derivada #2 (len =99)
+Pontuação: 51
+ACC-TTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCG-GTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+||| ||||||||...||.||||||||||.|||||||||| |..||||||||||||.|||| ||..|.| |.||||..||||||||.|| .|||||.|||||.
+ACCTTTCCGCTCGGAGAGGGGTTGCGCAGCCGCTGTGAA-CAGTTCGATCGGGGGAGACA-ACGCTAGAGCACGTACCCCCGCATCGC-CAATGTGCACGCT
+Similar = 79  Não similar = 18  Diferenças = 5  |  % identidade = 81,44%
+------------------------------------------------------------------------
+
+>>> Derivada #3 (len =104)
+Pontuação: 50
+ACCTTCCGCTCTA-GGA-TGGGTTGCGCACCCGCTGTGAATCTA-TT-CGATCGGGGGGGA-CACACCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGC-G
+||| ||.|||||| ||| ||.||||||||||||||||||||..| || .|.||||||.||| |||.|||||||.|||||.|||.|.|.||||| |||||..||| .
+ACC-TCAGCTCTACGGATTGTGTTGCGCACCCGCTGTGAATGGAGTTGTGGTCGGGGAGGACCACGCCATCGGAACGTCCCCCGGAACAGCAG-ATGTCAGCGCTA
+Similar = 82  Não similar = 16  Diferenças = 8  |  % identidade = 83,67%
+------------------------------------------------------------------------
+
+>>> Derivada #4 (len =101)
+Pontuação: 61
+ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCT-GTGAATCTATTCGATCGGGGGGGACACACCATCGGTACGTCGCCC-CGCATAGCAGAATGTCCACGCG
+.|||.||||| |.|.||||||||..|||||||| ||||.|||||||||.||||||.|||||||||||||.||||||||| .||||||.||.|.|..||||||
+GCCTGCCGCT-TCGAATGGGTTGTTCACCCGCTGGTGATTCTATTCGAACGGGGGAGACACACCATCGGCACGTCGCCCGGGCATAGGAGTAAGCACACGCG
+Similar = 83  Não similar = 16  Diferenças = 3  |  % identidade = 83,84%
+------------------------------------------------------------------------
+
+>>> Derivada #5 (len =103)
+Pontuação: 58
+ACCTTC-CGCTCTAG-GA-TGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCGGT-ACGTCGCCCCGCATAG-CAGAATGTCCACGCG
+ ||.|| |||||||| .| |||||||||||||||.|.|.|||||||||||||||.||.|||||||||||||| |||.|| .|||||||| |||||||..|||.|.
+-CCGTCTCGCTCTAGCTACTGGGTTGCGCACCCGGTTTAAATCTATTCGATCGGCGGCGACACACCATCGGTCACGCCG-GCCGCATAGACAGAATGGTCACACT
+Similar = 85  Não similar = 13  Diferenças = 7  |  % identidade = 86,73%
+------------------------------------------------------------------------
+
+>>> Derivada #6 (len =100)
+Pontuação: 40
+ACC-TTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATC-GGGGGGGA-CACACCATCGGTACGTCGC-CCCGCATAGCAGAATGTCCACGCG
+||| |||| | ||||||||||||||..||.||.|||| .|||||||.|.| |.|||.|| .|.||.|.|||||||||.| |||.|.||||||.||| .|.||.|
+ACCGTTCC-C-CTAGGATGGGTTGCAAACGCGGTGTG-TTCTATTCAAGCAGAGGGTGAGGAAACAAGCGGTACGTCTCTCCCTCCTAGCAGTATG-ACTCGGG
+Similar = 76  Não similar = 20  Diferenças = 8  |  % identidade = 79,17%
+------------------------------------------------------------------------
+
+>>> Derivada #7 (len =102)
+Pontuação: 51
+ACCTTCCGCTCTAGGATG-GGTTG-CGCACCCGCTGTGAAT-CTATTCGAT-CGGGGGGGACACACCATCGGTACGTCGCCCCGCA-TAGCAGAATGTCCACGCG
+||| .|.|||.|||.||| ..||| || ||||.||||||.| |||.|.||| ||||.|||||||.||||||||||.|||||||||| |||| |.|.|||||||||
+ACC-ACTGCTTTAGAATGCTTTTGTCG-ACCCCCTGTGACTCCTAATTGATACGGGAGGGACACCCCATCGGTACTTCGCCCCGCATTAGC-GTAAGTCCACGCG
+Similar = 82  Não similar = 15  Diferenças = 8  |  % identidade = 84,54%
+------------------------------------------------------------------------
+
+>>> Derivada #8 (len =101)
+Pontuação: 56
+ACCTTCCGCTCTAGGAT-GGGTTGCGCACCCGCTGTGAATCTATTCGA-TCGGGGGGGACACA-CCATCGGTA-CGTCGCCCCGCATAGCA-GAATGTCCACGCG
+||.|||||||||||||| ||.|||| || ||.||||||||.||.| || |.||.||||||||| .|.|||||| ||||||||||||||..| |||| ||||||||
+ACATTCCGCTCTAGGATAGGCTTGC-CA-CCACTGTGAATGTACT-GACTGGGCGGGGACACAGACTTCGGTATCGTCGCCCCGCATAATAGGAAT-TCCACGCG
+Similar = 85  Não similar = 11  Diferenças = 9  |  % identidade = 88,54%
+------------------------------------------------------------------------
+
+>>> Derivada #9 (len =97)
+Pontuação: 41
+ACCTTCCGCTC-TAGGATGGG-TTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+|||||.|.||| ||.|||||| ..||.|||||||||.|..||..||||.||||.|.|| ||||||| ||||..|||| |||.|||.|||.||  ||||||.|
+ACCTTTCACTCATAAGATGGGCCGGCCCACCCGCTGAGGTTCCGTTCGCTCGGCGAGG-CACACCA-CGGTCTGTCG-CCCACATTGCATAA--TCCACGGG
+Similar = 75  Não similar = 20  Diferenças = 7  |  % identidade = 78,95%
+------------------------------------------------------------------------
+
+>>> Derivada #10 (len =103)
+Pontuação: 43
+-ACCTTCCGCTCTAGGATGGGTTGCGCA-CCCGCTGTGAATCTATTCGA-TCGGGG-G-GGACACACCATCGGTACGTCGC-CCCGCATAGCAGAATGTCCACGCG
+ .||||||||||| ||||||.||..||| .|||||||.|||||| .||| |||||| | |.||||||||.|||||.|.||| |||..|.||||.||| |.|.||.|
+TCCCTTCCGCTCT-GGATGGATTCGGCAGTCCGCTGTAAATCTA-GCGATTCGGGGAGAGTACACACCAGCGGTAGGCCGCTCCCTAACAGCATAAT-TTCTCGAG
+Similar = 79  Não similar = 18  Diferenças = 9  |  % identidade = 81,44%
+------------------------------------------------------------------------
+
+>>> Derivada #11 (len =97)
+Pontuação: 46
+ACCT-TCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+||.| ||.|..||||| | |||||.||||||| .|||||||| ..||.||.|||.|||.|||..|||||||||||.||.|.|..||.||||||||||||||
+ACTTATCGGTCCTAGG-T-GGTTGAGCACCCG-GGTGAATCT-CCCGCTCTGGGAGGAGACATGATCGGTACGTCACCTCTCCAAGGAGAATGTCCACGCG
+Similar = 76  Não similar = 20  Diferenças = 5  |  % identidade = 79,17%
+------------------------------------------------------------------------
+
+>>> Derivada #12 (len =96)
+Pontuação: 45
+ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGAATGT-CCACGCG
+|||||||||| ..|| |||||...||||||||||||||| |||.|.|||.|||||| |||||||.||||||.||.||..|..|||.||..||| ||| |.|
+ACCTTCCGCT-GCGG-TGGGTAAGGCACCCGCTGTGAAT-TATACAATCAGGGGGG-CACACCACCGGTACTTCCCCGTGTCTAGTAGCGTGTGCCA-GGG
+Similar = 76  Não similar = 19  Diferenças = 6  |  % identidade = 80,00%
+------------------------------------------------------------------------
+
+>>> Derivada #13 (len =95)
+Pontuação: 46
+ACCTTCCGCTCT-AGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATC-GGGGGGGACACACCATCGGTACGTCG-CCCCGCATAGCAGAATGTCCACGCG
+|||||||||||| ||| |.|| ||||||||||| ||| ||.|| |||||| ||||..||||||.||.|||||| ||| .|||..||.|||| .||.||||| |
+ACCTTCCGCTCTCAGG-TTGG-TGCGCACCCGC-GTG-ATTTA-TCGATCTGGGGCTGACACAGCAGCGGTAC-TCGAACCCTTATGGCAG-CTGCCCACG-G
+Similar = 80  Não similar = 12  Diferenças = 11  |  % identidade = 86,96%
+------------------------------------------------------------------------
+
+>>> Derivada #14 (len =96)
+Pontuação: 54
+ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+||||||||.|||||||||||.||||||||||||||.||| .|.||.|.|.|..|.|||..||||.| .||||.|| ||| ||||||||||||.|||||||
+ACCTTCCGTTCTAGGATGGGGTGCGCACCCGCTGTAAAT-GAATCAACCCGATGAGACTAACCAGC-TTACGGCG-CCC-CATAGCAGAATGCCCACGCG
+Similar = 79  Não similar = 17  Diferenças = 4  |  % identidade = 82,29%
+------------------------------------------------------------------------
+
+>>> Derivada #15 (len =104)
+Pontuação: 59
+ACCTTCCGCTCTAGGATGG-GTT-GCGCACCCGCTGTGAATCTATTCGAT-CG-GGGGGGACACACCATCG-GTACGTC-GCCCCGCATAGCAGAATGTCCACGCG-
+| ||.|||||||||.|||| ||| ||||| |||||||||||||| ||||| || |||.|||||||.||.|| |||.|.| |.|||||||.|||||||||||||||| 
+A-CTACCGCTCTAGAATGGAGTTCGCGCA-CCGCTGTGAATCTA-TCGATCCGTGGGAGGACACATCAACGTGTAGGGCGGTCCCGCATCGCAGAATGTCCACGCGA
+Similar = 88  Não similar = 9  Diferenças = 10  |  % identidade = 90,72%
+------------------------------------------------------------------------
+
+>>> Derivada #16 (len =104)
+Pontuação: 56
+ACCTTCC-GCTCTAGGATGGGTTGCGCACC-C-GCTGTGAATCTA-TTCGATCGGGGGGGACACA-CCATCGGTACGTCGCCCC-GCATAGCAGAATGTCCACGCG
+||||.|| .|||||||||..|||||||||| | .|||.| ||||| |.||||||||||||||||| ||||||..|||||||||| ||||||.| .|||||||.|.|
+ACCTCCCTACTCTAGGATTAGTTGCGCACCTCTCCTGAG-ATCTAGTCCGATCGGGGGGGACACAGCCATCGTCACGTCGCCCCTGCATAGTA-CATGTCCAGGGG
+Similar = 85  Não similar = 13  Diferenças = 8  |  % identidade = 86,73%
+------------------------------------------------------------------------
+
+>>> Derivada #17 (len =101)
+Pontuação: 56
+ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCG-GGGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGAAT-GTC-CACGCG
+||||||||||.|||||||||.| ||.|.||||.||||||.|||| |||.| ||||.|||||.||||||.|||||.|||||||..||||..|| ||| |||||.
+ACCTTCCGCTGTAGGATGGGCT-CGGAGCCGCAGTGAATTTATT-GATAGCGGGGCGACACTCCATCGATACGTTGCCCCGCGGAGCAACATAGTCACACGCA
+Similar = 82  Não similar = 16  Diferenças = 5  |  % identidade = 83,67%
+------------------------------------------------------------------------
+
+>>> Derivada #18 (len =100)
+Pontuação: 53
+ACCT-TCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCAT-CGGTACGTCGCCCCGCATAGCAGAATGT-CCACGCG
+|||| ||||.|||..||| |||||| |||.||.|||.||.| |||.||||||||||..|||||||| ||||||.|||||.||||.|||||.|||| ||..|||
+ACCTATCCGATCTCCGAT-GGTTGC-CACGCGTTGTCAAAC-ATTGGATCGGGGGGCTCACACCATCCGGTACATCGCCGCGCAGAGCAGGATGTCCCTAGCG
+Similar = 81  Não similar = 16  Diferenças = 6  |  % identidade = 83,51%
+------------------------------------------------------------------------
+
+>>> Derivada #19 (len =101)
+Pontuação: 56
+-ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCGGTAC-GTCGCCCCGCATAGC-AGAATGTCCACGCG
+ ||.||.|||||||.||||.|.| ||||||..||.||.|||||||||||||||.||||.|||.|||||||.| |||| |||||||||| ||||||..|||||.
+TACATTTCGCTCTATGATGTGAT-CGCACCGCCTTTGCATCTATTCGATCGGGTGGGAAACATCATCGGTTCTGTCG-CCCGCATAGCGAGAATGAACACGCC
+Similar = 82  Não similar = 16  Diferenças = 5  |  % identidade = 83,67%
+------------------------------------------------------------------------
+
+>>> Derivada #20 (len =96)
+Pontuação: 65
+ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACAC-CATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+||| |||||||.| |||||| ||||| |||| |||.|||.||||.||||.||||||||||.| ||||||||||.|.|.|||||||||||||||||||||||
+ACC-TCCGCTCCA-GATGGG-TGCGC-CCCG-TGTAAATGTATTAGATCTGGGGGGACACTCGCATCGGTACGCCACGCCGCATAGCAGAATGTCCACGCG
+Similar = 86  Não similar = 9  Diferenças = 6  |  % identidade = 90,53%
+------------------------------------------------------------------------
+
+>>> Derivada #21 (len =96)
+Pontuação: 58
+ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+|||||||||||| ||||||||||||||||||.|| |.||||| .|||||.|||||..|||.|.|.| |||.||||||||.||||.|.||.||.|||||||
+ACCTTCCGCTCT-GGATGGGTTGCGCACCCGGTG-GGATCTA-GCGATCTGGGGGTTCACCCTAGC-GTAAGTCGCCCCCCATATCGGAGTGCCCACGCG
+Similar = 81  Não similar = 15  Diferenças = 4  |  % identidade = 84,38%
+------------------------------------------------------------------------
+
+>>> Derivada #22 (len =100)
+Pontuação: 51
+ACCTT-CCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACAC-CATCGGTACGTCGCCCCGCA-TAGCAGAATGTCCACGCG
+||||| ||.|||||||||||..||.||||.|||..|||||||.|||.|.|||||.|| ||.|| |||||||||||||.|.|||| ||.||| ||| |.||.||
+ACCTTGCCCCTCTAGGATGGTATGAGCACTCGCGATGAATCTGTTCCAACGGGGAGG-CAGACGCATCGGTACGTCGACGCGCAGTACCAG-ATG-CGACCCG
+Similar = 80  Não similar = 17  Diferenças = 6  |  % identidade = 82,47%
+------------------------------------------------------------------------
+
+>>> Derivada #23 (len =108)
+Pontuação: 66
+AC-CTTCCGCTCTA-GGATGGGT-TGCGCACCCGCTGTG-AA-TCT-ATTCGATCGGGGGGGACACACC-ATCGGTAC-GTCGCCCCGCATAGCAGAATGTCCACGCG
+|| ||||||||||| |||.|||| ||||||||||||||| || |.| |||||.||||||.|||.||||| |.|||||| .||||||||||.||||||.||||||||||
+ACTCTTCCGCTCTAGGGAAGGGTCTGCGCACCCGCTGTGTAACTATAATTCGCTCGGGGCGGATACACCAAGCGGTACACTCGCCCCGCAGAGCAGAGTGTCCACGCG
+Similar = 91  Não similar = 9  Diferenças = 8  |  % identidade = 91,00%
+------------------------------------------------------------------------
+
+>>> Derivada #24 (len =102)
+Pontuação: 63
+ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTG-AATCTATTCGATCGGGGGGGA-CACACCATCGGTACGTCGCCCCGCATAGC-AGAATGTCCACGCG
+||.|||.||||||||||||||||||||..||||||| ||||| |||||||.||||||| |||||||.||||||||||.|||||||..| |.|..||||..|||
+ACTTTCAGCTCTAGGATGGGTTGCGCAAACGCTGTGAAATCT-TTCGATCCGGGGGGACCACACCAACGGTACGTCGTCCCGCATGTCAACACGGTCCCGGCG
+Similar = 85  Não similar = 14  Diferenças = 4  |  % identidade = 85,86%
+------------------------------------------------------------------------
+
+>>> Derivada #25 (len =104)
+Pontuação: 32
+ACCTTCCGCTC-TAGGATGGGTTGCGC-ACCCG-CTGTGAATCTATTCGATCG-GGG-GGGA-CACACCATCGGTACGTCGCCCCGCATAGCAGAATGT-CCAC-GCG
+.||||.||.|| .|||.||||.|.||| ||||| .||||.|||.| | ||||| ||| ..|| .|.|||.|||| |.| |||||.|.|||||||.|||| |||| .||
+TCCTTACGGTCGGAGGTTGGGATTCGCAACCCGTTTGTGTATCCA-T-GATCGAGGGCTAGATGAAACCCTCGG-ATG-CGCCCTGGATAGCAGCATGTCCCACACCG
+Similar = 76  Não similar = 20  Diferenças = 12  |  % identidade = 79,17%
+------------------------------------------------------------------------
+
+>>> Derivada #26 (len =98)
+Pontuação: 49
+ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCG-ATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+||||||||.||.||.|.|||||..|||.|||||.||||||.||||| ||| .||||||.||||.||||| |||.|...|||| ||||||||.|.|||.|.|
+ACCTTCCGTTCAAGAACGGGTTTTGCAACCGCTTTGAATCGATTCGAATC-TGGGGGAAACACAATCGG-ACGCCCGACCGC-TAGCAGAACGGCCAAGGG
+Similar = 77  Não similar = 20  Diferenças = 4  |  % identidade = 79,38%
+------------------------------------------------------------------------
+
+>>> Derivada #27 (len =93)
+Pontuação: 46
+ACCTTCCGCTCTAGGATG-GGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+|||..||||||||||||| |.||||| |||||||||  ||||||||||||||.||||||||.|.|.||| |||  |||.|||..|||| .|| ..||||.|
+ACCCCCCGCTCTAGGATGAGTTTGCG-ACCCGCTGT--ATCTATTCGATCGGTGGGGACACGCAACCGG-ACG--GCCTCGCGGAGCA-TAT-CACACGTG
+Similar = 78  Não similar = 14  Diferenças = 9  |  % identidade = 84,78%
+------------------------------------------------------------------------
+
+>>> Derivada #28 (len =107)
+Pontuação: 53
+A-CCT-TCCGCTC-TAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCGG-TACGTCGCCCCG-CATAGCA-G-AATGTCCAC-GCG
+| ||| ||||||| ||||||.|..|||||.|||.||||||||||.|||||.|||.||.||..||||||||| ||.||||||||| ||| ||| | ||||.|||| .||
+AGCCTGTCCGCTCTTAGGATTGTATGCGCTCCCACTGTGAATCTGTTCGAACGGCGGCGAGCCACCATCGGCTAAGTCGCCCCGTCAT-GCAGGTAATGACCACACCG
+Similar = 85  Não similar = 14  Diferenças = 9  |  % identidade = 85,86%
+------------------------------------------------------------------------
+
+>>> Derivada #29 (len =96)
+Pontuação: 40
+ACCTTCCGCTCTA-GGATGGGTTGCGCACCCGCTG-TGAATCTATTCGATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+||||||||.|||| .||...|||.|||||||.||| ||||.| ...|.|||  |||||||||.|....|||.|| ||||||||||||| ||.|||||| |||
+ACCTTCCGGTCTACCGAGACGTTACGCACCCACTGTTGAAGC-CCGCTATC--GGGGGACACTCGGCGGGTCCG-CGCCCCGCATAGC-GATTGTCCA-GCG
+Similar = 75  Não similar = 19  Diferenças = 8  |  % identidade = 79,79%
+------------------------------------------------------------------------
+
+>>> Derivada #30 (len =100)
+Pontuação: 63
+ACCTTCCGCTCTAGGA-TGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+|||||||||||||.|| |||||||.|||||||||||||||||||.|||.|.|||||| .|||||||||.||||||..|||..|||||.||||.|||..||.
+ACCTTCCGCTCTAAGAGTGGGTTGTGCACCCGCTGTGAATCTATCCGAGCTGGGGGG-GACACCATCGCTACGTCCTCCCAGATAGCGGAATATCCTAGCA
+Similar = 83  Não similar = 16  Diferenças = 2  |  % identidade = 83,84%
+------------------------------------------------------------------------
+
+>>> Derivada #31 (len =102)
+Pontuação: 55
+ACCTTC-CGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCG-GTACGTCGCCCCGCATA-GCAG--AATGTCCACGCG
+.||||| .||||||||||||||||||||||| .|.|||||||||||||||||||||.||||||.|||| .|.||.|||.||||||| ||||  ||.|| || .|.
+TCCTTCAAGCTCTAGGATGGGTTGCGCACCC-TTATGAATCTATTCGATCGGGGGGAACACACAATCGACTTCGCCGCGCCGCATAGGCAGAAAAAGT-CA-TCC
+Similar = 84  Não similar = 13  Diferenças = 8  |  % identidade = 86,60%
+------------------------------------------------------------------------
+
+>>> Derivada #32 (len =95)
+Pontuação: 55
+ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+|.|||||||| ||||||||||.||.|||.|.|||| ||.||||.|..|| |||.||.|.||||||||||||| |||||.|||||.||||||.||||||| 
+AACTTCCGCT-TAGGATGGGTGGCTCACACACTGT-AAGCTATGCCTTC-GGGCGGTCTCACCATCGGTACG-CGCCCTGCATACCAGAATTTCCACGC-
+Similar = 80  Não similar = 15  Diferenças = 5  |  % identidade = 84,21%
+------------------------------------------------------------------------
+
+>>> Derivada #33 (len =102)
+Pontuação: 48
+AC-CT-TCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGAT-CGGGGGGGACACA-CCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+|| || |||||||||||||||||.|.||||.||.|| |.|||||..||.| ..|||.|.|.|.| |||..|||||||||.|.| ||||||||||||||.|||||
+ACTCTATCCGCTCTAGGATGGGTGGGGCACGCGGTG-GCATCTACACGCTGTAGGGTGTATAGACCCACTGGTACGTCGTCTC-CATAGCAGAATGTCTACGCG
+Similar = 79  Não similar = 19  Diferenças = 6  |  % identidade = 80,61%
+------------------------------------------------------------------------
+
+>>> Derivada #34 (len =100)
+Pontuação: 45
+ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACAC-CATCGGTACGTCGCCCCG-CATAGCAGAATGTCCACG-CG
+||.||||||| .|..|| |||||||| .|.|.||||.|.|.|||||||.||||||||||||| |.||.||..||||||||| |||..|||||.|||.||| |.
+ACATTCCGCT-AACCAT-GGTTGCGC-GCTGGTGTGTACCCATTCGATAGGGGGGGACACACTCGTCTGTTAGTCGCCCCGTCATTCCAGAAAGTCAACGTCC
+Similar = 77  Não similar = 20  Diferenças = 6  |  % identidade = 79,38%
+------------------------------------------------------------------------
+
+>>> Derivada #35 (len =103)
+Pontuação: 52
+AC-CTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGG-GGAC-ACACCATC-GGTACGTCGCCCCGCATAGCAGAATGTCCACGC-G
+|| ||.||| ||||||.|||||||||||.|.||.|||||||||.||||||||||| |.|| .|.||||| .|||.||..|||||||||| .||.|||||||.| |
+ACACTGCCG-TCTAGGCTGGGTTGCGCATCGGCCGTGAATCTACTCGATCGGGGGCGAACTCCTCCATCACGTAAGTTACCCCGCATAG-TGATTGTCCACTCGG
+Similar = 82  Não similar = 16  Diferenças = 7  |  % identidade = 83,67%
+------------------------------------------------------------------------
+
+>>> Derivada #36 (len =100)
+Pontuação: 49
+ACCTTCCGCTCTAGGATGGGTTGC-GCACCCGCTGTGAATCTATT-CGATCGGGGGGGACACACCATCGGTACG-TCGCCCCGCATAGCAGAATGTCCACGCG
+|..|.||||||.|||||||.|||| .||||..|||.||..||||| ||.|.||.||||||||||.| ||.|||| |||||||||||.| |||| |||||.|||
+AAATCCCGCTCCAGGATGGCTTGCTTCACCATCTGGGAGACTATTCCGTTTGGCGGGGACACACTA-CGCTACGATCGCCCCGCATCG-AGAA-GTCCAAGCG
+Similar = 79  Não similar = 18  Diferenças = 6  |  % identidade = 81,44%
+------------------------------------------------------------------------
+
+>>> Derivada #37 (len =97)
+Pontuação: 41
+-ACCTTCCGCTCTAG-GATGGGTTGCGC-ACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGAATGTC-CACGCG
+ ||||||| |||||| || |.|.|||.| ||||||||| .||.|||| .|.|.|||.||||| | ..|||||.||||||.|||||||.||| .|||| ||||||
+AACCTTCC-CTCTAGTGA-GTGCTGCCCTACCCGCTGT-TATTTATT-TAGCCGGGTGGACA-A-GTTCGGTTCGTCGCGCCGCATATCAG-TTGTCACACGCG
+Similar = 78  Não similar = 15  Diferenças = 11  |  % identidade = 83,87%
+------------------------------------------------------------------------
+
+>>> Derivada #38 (len =101)
+Pontuação: 46
+ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGA-ATCTATTCGATCGGGGGGGACACACCATCGGTACGTCGCC-CCGCATA-GCAGAATGTC-CACGC-G
+||||.|.||||||.|.|||||||....||| |||||| || ||||||||| ||||.||.||||||||||||||||||| .||.|.| |||| .|||| ||..| |
+ACCTCCAGCTCTACGCTGGGTTGTTTGCCC-CTGTGAGAT-TATTCGATC-GGGGTGATACACCATCGGTACGTCGCCATCGGAAATGCAG-GTGTCGCAGACGG
+Similar = 80  Não similar = 16  Diferenças = 9  |  % identidade = 83,33%
+------------------------------------------------------------------------
+
+>>> Derivada #39 (len =95)
+Pontuação: 45
+ACCTTCCGCTCTAGGATGGGTTG-CGCACCCGCTGTGAATCTA-TTCGATCGG-GGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGC-G
+||||||| |||||||||||||.| |||| .||||||  ||||| |.||||||| |||||||.|| |.| ..|| |.|| |||||||.|||||| ||.||||| |
+ACCTTCC-CTCTAGGATGGGTCGCCGCA-ACGCTGT--ATCTAGTCCGATCGGTGGGGGACCCA-CGT-ATTA-GCCG-CCCGCATCGCAGAA-GTTCACGCAG
+Similar = 81  Não similar = 10  Diferenças = 13  |  % identidade = 89,01%
+------------------------------------------------------------------------
+
+>>> Derivada #40 (len =93)
+Pontuação: 43
+ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+...|||||||||||..||.|.||| ||||||.| |||||.|| .|||| ||.||||| ||| || ||....|.|||||||||.|||||.|||||||||||
+GTTTTCCGCTCTAGCGTGTGCTGC-CACCCGAT-TGAATGTA-CCGAT-GGAGGGGA-ACA-CA-CGCCCTGACGCCCCGCAGAGCAGCATGTCCACGCG
+Similar = 75  Não similar = 18  Diferenças = 7  |  % identidade = 80,65%
+------------------------------------------------------------------------
+
+>>> Derivada #41 (len =103)
+Pontuação: 59
+ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCG-ATCGGGGGGGACACACCATCGGTACGTC-GCCC-CGCATAGCA-GAATGTCCACGCG
+|.| .||.|||.|||||||||.||||||||||||||.|.|.||||| |||||||.|.|||||||||||.||.|.| |||| |.||.|||| |||||||||||||
+ATC-GCCCCTCGAGGATGGGTGGCGCACCCGCTGTGGAACAATTCGTATCGGGGAGCACACACCATCGCTATGACTGCCCTCACACAGCATGAATGTCCACGCG
+Similar = 84  Não similar = 15  Diferenças = 5  |  % identidade = 84,85%
+------------------------------------------------------------------------
+
+>>> Derivada #42 (len =104)
+Pontuação: 64
+ACCTTCCGCTCTAGGAT-GGG-TTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACA-CCATCGGTACGTCGCCCCGCATAGCAG-AATGTCCACGCG
+||||.|||||||||||| ||| |.||||||||.||..||||||||||.|.||||||||||.|| ||||||||||||.||.|..|||||||| |.|||.||||||
+ACCTCCCGCTCTAGGATGGGGATGGCGCACCCCCTCAGAATCTATTCTAACGGGGGGGACCCACCCATCGGTACGTTGCACGCCATAGCAGTAGTGTACACGCG
+Similar = 86  Não similar = 14  Diferenças = 4  |  % identidade = 86,00%
+------------------------------------------------------------------------
+
+>>> Derivada #43 (len =104)
+Pontuação: 57
+ACCTTC-CGCTCTAGGATGGGTTG-CGCACCC-GCTGTGAATCTATTCGATCG-GGGGGGACAC-ACCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+||||.| |||||.||.|||||||| ||||||| ||||.|||||||.|||.|.| |||||.|||| |||||||||.|..|||||||.||||||||.| |.|||||.
+ACCTCCTCGCTCCAGAATGGGTTGTCGCACCCTGCTGGGAATCTAGTCGTTGGTGGGGGCACACTACCATCGGTCCCGCGCCCCGTATAGCAGACT-TACACGCT
+Similar = 84  Não similar = 15  Diferenças = 6  |  % identidade = 84,85%
+------------------------------------------------------------------------
+
+>>> Derivada #44 (len =102)
+Pontuação: 47
+ACCTTCCGCTCT-AGGAT-GGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACA-CCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+||.|.|.||||| ||||| .|||||||.||..|||||||.|||||||.||.||||||...||| |||.||.|||| .||||||||.|||..||.||.|.||||
+ACTTGCAGCTCTAAGGATACGGTTGCGGACGTGCTGTGAGTCTATTCTATAGGGGGGATTACACCCACCGTTACG-GGCCCCGCAAAGCTTAACGTTCGCGCG
+Similar = 77  Não similar = 22  Diferenças = 4  |  % identidade = 77,78%
+------------------------------------------------------------------------
+
+>>> Derivada #45 (len =95)
+Pontuação: 44
+ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATT-CGATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+| ||||.|||||..||||||||||| .||.|||..||||||||| |||||  .||||||..||||||||| .|...|||.|.|||..||||||| ||||||
+A-CTTCAGCTCTCTGATGGGTTGCG-TCCGGCTTCGAATCTATTCCGATC--CGGGGACGGACCATCGGT-GGAGACCCGGAATACAAGAATGT-CACGCG
+Similar = 76  Não similar = 18  Diferenças = 7  |  % identidade = 80,85%
+------------------------------------------------------------------------
+
+>>> Derivada #46 (len =102)
+Pontuação: 32
+ACCTTCCGCTCTAGGATGGGT-TGC-GCACCCGCTGTGAATCTATT-CGATCGGGGGGG-ACACA-CCATCGGTACGTCGCCC-CGCATAGCA-G-AATGTCCA-C-GCG
+| .|| |||.||| .||||.| |.| ||| ||| |||||||| ||| ||.||||||||| ||||| .||| ||..|||||||| |.|| |||| | |.||.||| | |||
+A-ATT-CGCCCTA-AATGGCTCTACTGCA-CCG-TGTGAATC-ATTGCGTTCGGGGGGGTACACATACAT-GGCCCGTCGCCCACACA-AGCATGTATTGGCCAGCTGCG
+Similar = 80  Não similar = 12  Diferenças = 18  |  % identidade = 86,96%
+------------------------------------------------------------------------
+
+>>> Derivada #47 (len =105)
+Pontuação: 48
+A-CCT-TCCGCTCT-A-GGATGGGTTGCGC-ACCCGCT-GTGAATCTATTCGATCGGGGGGGACACA-CCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+| ||| ||.|| || | ||||||||||.|| ||||||| || .||.|||.|||||.||||.|.|.|| ||||.|||||||||.||||.||.|||.|.|.||||||||
+AGCCTCTCTGC-CTGATGGATGGGTTGGGCGACCCGCTCGT-CATGTATCCGATCAGGGGAGGCGCAGCCATTGGTACGTCGTCCCGTATGGCAAAGTATCCACGCG
+Similar = 82  Não similar = 16  Diferenças = 9  |  % identidade = 83,67%
+------------------------------------------------------------------------
+
+>>> Derivada #48 (len =100)
+Pontuação: 37
+ACCTTCCG-CTCTAGGATGGGTTGCGCACCC-GC-TGT-GAATCTATTCGATCGGGGGGGACA-CACCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+|.|.||.| |.|||||||.|||||||||||| || ||| ||||...||||.||   .|||||| || |.| |..|.||||||.|.|||||.||||.|||.|||||
+AACATCAGCCGCTAGGATTGGTTGCGCACCCGGCTTGTGGAATAGGTTCGGTC---TGGGACATCA-CGT-GAAAAGTCGCCGCCCATAGGAGAACGTCTACGCG
+Similar = 76  Não similar = 19  Diferenças = 10  |  % identidade = 80,00%
+------------------------------------------------------------------------
+
+>>> Derivada #49 (len =100)
+Pontuação: 46
+ACCTTCCGCTCTAGGATG-GGTTGCGCACCCGC-TGTGAATCTATTCGATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+|||.|||||.|.||.||| ||||||..|||||| .|||||||||..|||..|..|||||.|.||||||.|||| ||||.|||||||| |.|...|.||||||
+ACCCTCCGCCCGAGCATGAGGTTGCAAACCCGCACGTGAATCTAACCGAGAGTCGGGGATAAACCATCTGTAC-TCGCTCCGCATAG-AAACACTGCACGCG
+Similar = 76  Não similar = 22  Diferenças = 4  |  % identidade = 77,55%
+------------------------------------------------------------------------
+
+>>> Derivada #50 (len =103)
+Pontuação: 51
+ACC-TTCCG-CTC-TAGGATGG-GTTGCGCA-CCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATAGCA-GAATGTCCACGCG
+.|| ||||| .|| |||||||| |||||||| .||||||.||| .|..|||||||||||||||||||.||||..|||||| ||.||.||.|| |||| |||.||||
+CCCTTTCCGTATCGTAGGATGGTGTTGCGCAGACCGCTGGGAA-ATGCTCGATCGGGGGGGACACACGATCGAGACGTCG-CCAGCTTAACAGGAAT-TCCTCGCG
+Similar = 83  Não similar = 14  Diferenças = 9  |  % identidade = 85,57%
+------------------------------------------------------------------------
+
+>>> Derivada #51 (len =98)
+Pontuação: 27
+ACCTTCCGCTCTAGGATGG-GTTGCGCACCCGCTGTGAA-TCTATTCGATC-GGGGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGA-ATGTCCACG-CG
+.|.||.|.||||||||||| .||| ||| |.|...|||| |.|..|||.|| ||||.|.|||.|.| || ||||||| |.|.|| ||| ||| .||||||.| ||
+CCTTTACCCTCTAGGATGGAATTG-GCA-CAGAAATGAAGTTTTATCGTTCTGGGGAGTACATATC-TC-GTACGTC-CACTGC-TAG-AGAGCTGTCCAAGACG
+Similar = 72  Não similar = 21  Diferenças = 12  |  % identidade = 77,42%
+------------------------------------------------------------------------
+
+>>> Derivada #52 (len =99)
+Pontuação: 61
+ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTG-AATCTATTCGATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATA-GCAGAATG-TCCAC-GCG
+.|..|||||||| .||..||||||.||||||||||| |||||||||| | ||||||| |||||||||||||||||||||| |||| |||||||| .|||| |||
+TCGATCCGCTCT-TGAACGGTTGCTCACCCGCTGTGAAATCTATTCG-T-GGGGGGG-CACACCATCGGTACGTCGCCCC-CATAGGCAGAATGAGCCACAGCG
+Similar = 87  Não similar = 8  Diferenças = 9  |  % identidade = 91,58%
+------------------------------------------------------------------------
+
+>>> Derivada #53 (len =101)
+Pontuação: 46
+ACCT-TCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCG-GGGGGGACACACCATCG-GTACGTCGCCCCGCA-TAGCAGAA-TGTCCACGCG
+|||| ||||||||||| ||||||||..|.||..||||||.| | ..|| || ||||||||||||..|.| |.||||.|||||||| |||||||| |.|.|||.||
+ACCTCTCCGCTCTAGG-TGGGTTGCAGAACCTATGTGAAAC-A-GGGA-CGAGGGGGGACACACATTGGCGAACGTTGCCCCGCATTAGCAGAATTCTGCACACG
+Similar = 80  Não similar = 16  Diferenças = 9  |  % identidade = 83,33%
+------------------------------------------------------------------------
+
+>>> Derivada #54 (len =101)
+Pontuação: 40
+-ACCTTCCGCTCTAGGA-TGGGTTGCGCACCCGCTGTGA-ATCTATTCGATCGG-GGGGGACACACCATCGGTACGTCG-CCCCGCATAGCAGAATGTCCACGCG
+ .||...||||| |||| ||||||||||.||.|| .|.| .|.|.|||.||||| |||.||||| .||||.||||||.| |||||||||| |||.|||||||..|
+GCCCAATCGCTC-AGGATTGGGTTGCGCGCCAGC-CTAACTTGTTTTCAATCGGTGGGAGACAC-TCATCAGTACGTAGCCCCCGCATAG-AGAGTGTCCACAAG
+Similar = 77  Não similar = 19  Diferenças = 9  |  % identidade = 80,21%
+------------------------------------------------------------------------
+
+>>> Derivada #55 (len =98)
+Pontuação: 51
+ACCTTCCGCTCTAGGAT-GGGTTGCGCACCCGCTGTGAA-TCTATTCGATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATA-GCAGAATGTCCACGCG
+  |.||..||||||||| .||.||||||||.|||||.|| ||||||||..|||.|||||||||.|||.|||| ||||||||||||| |.||||||| .|| ||
+--CGTCGACTCTAGGATACGGGTGCGCACCTGCTGTCAACTCTATTCGTGCGGAGGGGACACAGCATTGGTA-GTCGCCCCGCATATGTAGAATGT-GAC-CG
+Similar = 81  Não similar = 14  Diferenças = 8  |  % identidade = 85,26%
+------------------------------------------------------------------------
+
+>>> Derivada #56 (len =104)
+Pontuação: 50
+ACCTTCCGCTCTA-GGATGGG-TTGCGCACCCG-CTGTGAATCTATTCGATCGGGGGGGACACACCATCG-GTACG-TCGCCCCGCATAGCAGAATGTCCACGC-G
+||||||||||||| |.|.||| ||..||||||| |.|.||||||| |||.|||...||||||||..|||| ||||| ||| |||||||||||.|||.||.|.|| |
+ACCTTCCGCTCTACGAAGGGGTTTTGGCACCCGCCCGGGAATCTA-TCGTTCGTTAGGGACACAAGATCGCGTACGATCG-CCCGCATAGCACAATATCAAAGCTG
+Similar = 82  Não similar = 16  Diferenças = 8  |  % identidade = 83,67%
+------------------------------------------------------------------------
+
+>>> Derivada #57 (len =96)
+Pontuação: 56
+ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+||||.||.|.||||||||||||||||| ||||.||||||.|||||..||.|||.|||.|||.|| |||| ||||.|||.||||||||| .|.|||.||||
+ACCTGCCTCACTAGGATGGGTTGCGCA-CCGCAGTGAATTTATTCTTTCTGGGCGGAGACAACA-CGGT-CGTCACCCAGCATAGCAG-CTTTCCTCGCG
+Similar = 80  Não similar = 16  Diferenças = 4  |  % identidade = 83,33%
+------------------------------------------------------------------------
+
+>>> Derivada #58 (len =103)
+Pontuação: 47
+ACCTT-CCGCTC-TAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGAT-CGGGGGGGACACACCA-TCGGTACGTCGCCCCGCAT-AGCAGAAT-GTCCACGCG
+||||| |||||| .||| ||||.||||||||||| ||||||.|.|||||| ||.|.||.||||.|.| ||.|||| |||.|||||.| .|.||||| .||||.|||
+ACCTTGCCGCTCGCAGG-TGGGATGCGCACCCGC-GTGAATTTTTTCGATCCGAGTGGTACACTCTATTCCGTAC-TCGTCCCGCGTGCGAAGAATATTCCAAGCG
+Similar = 81  Não similar = 16  Diferenças = 9  |  % identidade = 83,51%
+------------------------------------------------------------------------
+
+>>> Derivada #59 (len =97)
+Pontuação: 64
+ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCG-ATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+.|||||||| |||||.|||||.|.||.|||||.||||||.|||||| ||| .|||||||||| .|||||| ||.|||||||.|||||||||||||||||||
+GCCTTCCGC-CTAGGTTGGGTGGAGCCCCCGCCGTGAATATATTCGCATC-CGGGGGACACA-GATCGGT-CGGCGCCCCGTATAGCAGAATGTCCACGCG
+Similar = 85  Não similar = 11  Diferenças = 5  |  % identidade = 88,54%
+------------------------------------------------------------------------
+
+>>> Derivada #60 (len =100)
+Pontuação: 58
+ACCTTCCGCTCTAGGAT-GGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCGGTACGTCG-CCCCGCATAGCAGAATGTCCACGCG
+| |||||||.||.|||| ||||.||||||.|.|.|||.||.||||||.||.||||||||||||.|.|||| .|||| |||.||||||||.|||||.||||||
+A-CTTCCGCGCTGGGATGGGGTGGCGCACGCCCGGTGCATGTATTCGCTCTGGGGGGACACACGAGCGGT-GGTCGTCCCTGCATAGCACAATGTGCACGCG
+Similar = 82  Não similar = 16  Diferenças = 4  |  % identidade = 83,67%
+------------------------------------------------------------------------
+
+>>> Derivada #61 (len =100)
+Pontuação: 68
+ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+||.|||||||.||||.||||||||||||.||||.|||||||.|.|||||||||||.||.|.||||||.||||.|.|||.||||||||.||||||||||.|
+ACATTCCGCTATAGGGTGGGTTGCGCACACGCTCTGAATCTTTCCGATCGGGGGGTACTCGCCATCGATACGACCCCCGGCATAGCAAAATGTCCACGAG
+Similar = 84  Não similar = 16  Diferenças = 0  |  % identidade = 84,00%
+------------------------------------------------------------------------
+
+>>> Derivada #62 (len =99)
+Pontuação: 41
+-ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTAT-TCGATCGG-GGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGA-ATGTCCACGCG
+ ||||||||||||||||||..|.||||| |||.| .||.|.||| ..|||||| .|||||||| |.||.||..||| |||||| |||.|||| .|||||.||.|
+CACCTTCCGCTCTAGGATGATTGGCGCA-CCGGT-CGATTATATGAGGATCGGAAGGGGACAC-CAATGGGGCCGT-GCCCCG-ATAACAGACCTGTCCGCGGG
+Similar = 77  Não similar = 18  Diferenças = 9  |  % identidade = 81,05%
+------------------------------------------------------------------------
+
+>>> Derivada #63 (len =98)
+Pontuação: 53
+ACCTTCCGCTCT-AGGATGGGTTGCGCACCCGCTGT-GAATCTATTCGATC-GGGGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+||.||||||||| ||||.||||||||| ||..||.| ||.||||||||||| .|||||.||||| ||| |||||||| .||||| ||..|||||||.|||||.
+ACATTCCGCTCTAAGGACGGGTTGCGC-CCGACTATCGACTCTATTCGATCTTGGGGGAACACA-CAT-GGTACGTC-ACCCGC-TATTAGAATGTTCACGCA
+Similar = 82  Não similar = 13  Diferenças = 8  |  % identidade = 86,32%
+------------------------------------------------------------------------
+
+>>> Derivada #64 (len =101)
+Pontuação: 59
+AC-CTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCG-ATCGGGGGGGAC-ACACCATCGGTACGTCGCCCCGCATAGCAGAATG-TCCACGCG
+|| |||.||||||||||||.|||||||| |||||||||||||||||| .|||||||..|| ||| ||||||.|||| .|.|.||||||||||||| ||.|.|.|
+ACTCTTGCGCTCTAGGATGTGTTGCGCA-CCGCTGTGAATCTATTCGCGTCGGGGGACACGACA-CATCGGCACGT-ACGCTGCATAGCAGAATGTTCAAAGTG
+Similar = 85  Não similar = 12  Diferenças = 7  |  % identidade = 87,63%
+------------------------------------------------------------------------
+
+>>> Derivada #65 (len =96)
+Pontuação: 57
+ACCTTCCGCTCTAGG-ATGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+|||.|.|||||.||| ||.|||.|||||.||||| .||||||.||||||.||||||||||||||||||||| ||.| ||||||.||| |||||||..||| 
+ACCGTGCGCTCGAGGCATTGGTGGCGCAGCCGCT-CGAATCTTTTCGATAGGGGGGGACACACCATCGGTA-GTAG-CCCGCACAGC-GAATGTCACCGC-
+Similar = 82  Não similar = 13  Diferenças = 6  |  % identidade = 86,32%
+------------------------------------------------------------------------
+
+>>> Derivada #66 (len =101)
+Pontuação: 45
+ACCTTCCGCTC-TAGGATGGGT-TGCGCACCCGCTGTGAATCTA-TT-CGATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+||||| ||.|| .|||.||||| ||||.|.||||.|.|||||.| || ||||.||||||| ||||||||||.||||||....||||||| ||.||....|||||
+ACCTT-CGGTCGAAGGTTGGGTCTGCGTAGCCGCCGGGAATCGATTTACGATAGGGGGGG-CACACCATCGCTACGTCTGAACGCATAG-AGCATCCTTACGCG
+Similar = 78  Não similar = 19  Diferenças = 7  |  % identidade = 80,41%
+------------------------------------------------------------------------
+
+>>> Derivada #67 (len =103)
+Pontuação: 58
+A-CCTTCCGCT-CTA-GGATGGGTTGCGCACC-CGCTGTGAATCTATTCGATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATA-GCAGAATGTCCACGCG
+| ||.|||||| ||| ||||||||||||.||| |||||||||| |.|.||.|||||.||||||||.|..|.||||||||||||||||| ||||.|||| |.||.|
+ACCCATCCGCTCCTATGGATGGGTTGCGGACCACGCTGTGAAT-TCTCCGTTCGGGCGGGACACAACGACTGTACGTCGCCCCGCATAGGCAGTATGT-CGCGAG
+Similar = 85  Não similar = 13  Diferenças = 7  |  % identidade = 86,73%
+------------------------------------------------------------------------
+
+>>> Derivada #68 (len =106)
+Pontuação: 46
+ACCTTCCGC-TCTAGGATGGGTTGCG-CA-CCCGCTGTGAATCTATTCGATCG-GGGGGGACACACCATCGGTAC-GTCGCCCCGCAT-AGCAGAATGTCCACG-C-G
+||||..||| ||| ||.|.||||||| .| ||||||||||||.|||||||||| ||||..||.||||.||.|||| |||| ||||.|| |||.|||.||||.|| | .
+ACCTGTCGCTTCT-GGCTCGGTTGCGAGACCCCGCTGTGAATGTATTCGATCGTGGGGACACTCACCGTCTGTACAGTCG-CCCGAATCAGCTGAAGGTCCGCGTCAA
+Similar = 82  Não similar = 16  Diferenças = 10  |  % identidade = 83,67%
+------------------------------------------------------------------------
+
+>>> Derivada #69 (len =104)
+Pontuação: 50
+ACCTTCCGCTCTAGGATGGGTTGCG-CAC-CCGCT-GTGAA-TCTATTCGATCGGGGGGGACACACCATCGGT-ACGTCGCCCCGCATAG-CAGAATGTCCACGCG
+|||||||.|||||||||..|||||| ||| ||||| ||||| |||||.|||.|||.|.|.|| .|||.|||.| .||||| ||||.|||| ||||||.|||.|.||
+ACCTTCCCCTCTAGGATCTGTTGCGACACTCCGCTAGTGAATTCTATCCGAACGGAGAGTAC-GACCGTCGATGCCGTCG-CCCGGATAGCCAGAATATCCTCTCG
+Similar = 82  Não similar = 16  Diferenças = 8  |  % identidade = 83,67%
+------------------------------------------------------------------------
+
+>>> Derivada #70 (len =95)
+Pontuação: 40
+ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCGGTACGTCGCCCCGCAT-AGCAGAATGTCCACGCG
+.|||| |||.|||||||.||||.||||.||...||| ||...||||.|.|.||||||| .| ||.||||||.|.||||||||| |||.||||| || ||.|
+CCCTT-CGCACTAGGATAGGTTTCGCATCCTGGGTG-ATGACTTCGTTAGTGGGGGAC-TA-CAGCGGTACATTGCCCCGCATCAGCGGAATG-CC-CGAG
+Similar = 74  Não similar = 20  Diferenças = 7  |  % identidade = 78,72%
+------------------------------------------------------------------------
+
+>>> Derivada #71 (len =96)
+Pontuação: 39
+ACC-TTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAAT-CTATTCGATCGGGGGGGACACACCATCGGTACG-TCGCCCCGCATAGCAGAATGTCCACGCG
+.|| .||||||.|| |.|.|| |||.| .|||||| |||| .|||..|||| .||..|||||||.||||||||| |||||||||||||||| .|.|||| |.|
+TCCGGTCCGCTATA-GTTAGG-TGCAC-GCCGCTG-GAATAGTATGGGATC-CGGAAGACACACTATCGGTACGTTCGCCCCGCATAGCAG-GTTTCCA-GTG
+Similar = 76  Não similar = 17  Diferenças = 10  |  % identidade = 81,72%
+------------------------------------------------------------------------
+
+>>> Derivada #72 (len =97)
+Pontuação: 45
+ACCTTCCGCTC-TAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCA-TCGGTACG-TCGCCCCGCAT-AGCAGAATGTCCACGCG
+||.||||| || |||| |||||||||.|||||| ||||||..|..|||||||||||| |.||||| |||||||| |.| .||.||| || |.|.||| .|||||
+ACATTCCG-TCATAGG-TGGGTTGCGAACCCGC-GTGAATGCACACGATCGGGGGGG-CCCACCACTCGGTACGATAG-ACCACATCAG-AAATTGT-TACGCG
+Similar = 80  Não similar = 13  Diferenças = 11  |  % identidade = 86,02%
+------------------------------------------------------------------------
+
+>>> Derivada #73 (len =95)
+Pontuação: 41
+ACCTTCCGCTCTAGGATGGGTTG-CGCACCCGCTGTGA-ATCTATTCGATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+|.| |.|| |||||||| ||||| .||||||..|||.| ..||.||||||| |||||.||| |..|||||||||||| |.|||||||..|.| .||||||||
+AGC-TGCG-TCTAGGAT-GGTTGAGGCACCCTGTGTCAGCGCTTTTCGATC-GGGGGAACA-AGTATCGGTACGTCG-CTCGCATAGTTGTA-ATCCACGCG
+Similar = 76  Não similar = 17  Diferenças = 9  |  % identidade = 81,72%
+------------------------------------------------------------------------
+
+>>> Derivada #74 (len =97)
+Pontuação: 46
+-ACCTTCCGCTCTAGGATGG-GTTG-CGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+ .|||||| ||||||||||| |||| ||||||| | ||||||.|.|||||||||||||.|||||...|..| .|| .| .||.|||||||||||.|||||.||
+TCCCTTCC-CTCTAGGATGGCGTTGCCGCACCC-C-GTGAATGTCTTCGATCGGGGGGTACACAGGCTTAG-CCG-AG-GCCACATAGCAGAATCTCCACACG
+Similar = 79  Não similar = 15  Diferenças = 9  |  % identidade = 84,04%
+------------------------------------------------------------------------
+
+>>> Derivada #75 (len =101)
+Pontuação: 57
+AC-CTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACAC-CATCGGTACGTCGCCCCGCATAG-CA-GAATGTCCACGCG
+|| ||..||||||||||| ||||.|.|||||||||||....|||||.||||||||||||.||| ||||.||| .|||||.||||||| || ||||||||| |||
+ACACTGACGCTCTAGGAT-GGTTACTCACCCGCTGTGTTGATATTCCATCGGGGGGGACGCACGCATCCGTA-ATCGCCACGCATAGACAGGAATGTCCA-GCG
+Similar = 84  Não similar = 13  Diferenças = 7  |  % identidade = 86,60%
+------------------------------------------------------------------------
+
+>>> Derivada #76 (len =98)
+Pontuação: 58
+ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGAA-TGTCCA-CGCG
+|||||||.|||||||||.|||||||||||| ||||.|||||| |||||||..|||.||||..| |.||||||||| .||||.|||||||| |.|||| .|||
+ACCTTCCTCTCTAGGATTGGTTGCGCACCC-CTGTAAATCTA-TCGATCGACGGGAACACTAC-TAGGTACGTCG-GCCGCTTAGCAGAACTTTCCATGGCG
+Similar = 83  Não similar = 13  Diferenças = 6  |  % identidade = 86,46%
+------------------------------------------------------------------------
+
+>>> Derivada #77 (len =104)
+Pontuação: 52
+ACCTTCCGCT-CTA-GGATGGGTTGCGC-ACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCGGTACGTCGC-CCCGCATAGCAGAATGTCCACGCG
+.||||||.|| .|| ..||||||||||| ||||.||||.||||||||..|||..||||||||||.||.|||||||.||| .|..|||||.||..||||||||||
+TCCTTCCACTAGTACAAATGGGTTGCGCAACCCTCTGTCAATCTATTACATCTAGGGGGACACATCAACGGTACGCCGCAGCATCATAGAAGCCTGTCCACGCG
+Similar = 80  Não similar = 20  Diferenças = 4  |  % identidade = 80,00%
+------------------------------------------------------------------------
+
+>>> Derivada #78 (len =101)
+Pontuação: 48
+ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATT-CGATCGGGGGGGACACACCA--TCGGTACGTCGCCCCGCATAGC-AGAATGTCC-ACGCG
+ |||||||| .|||||.|||||| |||||||.|||||.|||||| |||||..||.|..|.|||||  |..||||||||||||| |.|.| ||||||||| ||||.
+-CCTTCCGC-ATAGGACGGGTTG-GCACCCGTTGTGATTCTATTGCGATCAAGGCGACCCCACCAGTTTAGTACGTCGCCCCG-AGATCAAGAATGTCCTACGCA
+Similar = 81  Não similar = 15  Diferenças = 9  |  % identidade = 84,38%
+------------------------------------------------------------------------
+
+>>> Derivada #79 (len =107)
+Pontuação: 56
+ACCTTCCGCTCTAGGATGGGTTGCGCACCCGC-TGTGAATCTATTCGATCGGGGGGGA-CA-CACCATC-GGTACG-TCGCCCCGCATAGCAG-AA-TGTCCACGCG
+.|||.|..||||.||.||||.||||||||||| |||||||||.||.|||..||||||| || ||||||| |||||| .|||.||||||||||| || ||||||.||.
+TCCTCCACCTCTTGGTTGGGATGCGCACCCGCATGTGAATCTGTTGGATTAGGGGGGACCATCACCATCGGGTACGAACGCACCGCATAGCAGTAACTGTCCAAGCA
+Similar = 85  Não similar = 15  Diferenças = 7  |  % identidade = 85,00%
+------------------------------------------------------------------------
+
+>>> Derivada #80 (len =101)
+Pontuação: 38
+ACCTTCCGCTCTAGG-ATGGGTTGCGCACCCGCTGTGA-ATCT--ATTCGATCGGGGGGGACACAC-CATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+|||..|||||||||| |...||.||| |||||||..|| .|||  |||| ||||.||...|| |.| |..||||||||.||||||||||||||||||..|.|| |
+ACCCCCCGCTCTAGGCAGTCGTCGCG-ACCCGCTAGGATGTCTAAATTC-ATCGCGGTTAAC-CTCGCTGCGGTACGTAGCCCCGCATAGCAGAATGAACCCG-G
+Similar = 76  Não similar = 20  Diferenças = 9  |  % identidade = 79,17%
+------------------------------------------------------------------------
+
+>>> Derivada #81 (len =95)
+Pontuação: 57
+ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCA-TCGGTACGTCGCCCCGCA-TAGCAGAATGTCCACGCG
+|||||||||| |.|||||.| ||||||||| ||.|| ||||| ||.|||..||||||||||||| ||||||||.||.|||||| ||||||||.|| | ||||
+ACCTTCCGCT-TGGGATGAG-TGCGCACCC-CTATG-ATCTA-TCAATCTTGGGGGACACACCATTCGGTACGGCGGCCCGCATTAGCAGAAGGT-C-CGCG
+Similar = 84  Não similar = 9  Diferenças = 9  |  % identidade = 90,32%
+------------------------------------------------------------------------
+
+>>> Derivada #82 (len =101)
+Pontuação: 44
+ACCTTC-CGCTCTAGGAT-GGGT-TGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCGGTACGTC-GCCCCGCATAGCAGAATGTC-CACGCG
+| |||| || |||||.|| |||| |.....||||.|||||||.|||||.||.||||.||||.|||||..||||| || ||||||||||| |.|||||| |.||.|
+A-CTTCGCG-TCTAGTATAGGGTGTTTTGGCCCGTTGTGAATGTATTCTATGGGGGTGGACGCACCACGGGTAC-TCAGCCCCGCATAG-ATAATGTCTCTCGAG
+Similar = 79  Não similar = 17  Diferenças = 9  |  % identidade = 82,29%
+------------------------------------------------------------------------
+
+>>> Derivada #83 (len =97)
+Pontuação: 45
+ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+|||||||...||||.|||||||||| .||||.||.||||.|.|.||..||||.|.|..||||||.| |||||||||||||...|| |||||.|..|||||
+ACCTTCCCACCTAGCATGGGTTGCG-GCCCGGTGAGAATATTTGCGGGCGGGAGCGCTACACCAAC-GTACGTCGCCCCGACCAG-AGAATCTTAACGCG
+Similar = 74  Não similar = 23  Diferenças = 3  |  % identidade = 76,29%
+------------------------------------------------------------------------
+
+>>> Derivada #84 (len =99)
+Pontuação: 44
+ACCTTCCGCTCTAGGATGGGTTG-CGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCG-GTACGT-CGCCCCGCATAGCAGAATGTCCACGCG
+|||.| .|.|||||.|.|||||| |||||||||||.| |||.||| ||.|||||||..|| ||.|||| .||||| |||.|||||||.||||.||...||||.
+ACCAT-AGGTCTAGAAGGGGTTGACGCACCCGCTGAG-ATCAATT-GACCGGGGGGAGCA-ACAATCGCTTACGTCCGCTCCGCATATCAGAGTGAGGACGCT
+Similar = 77  Não similar = 19  Diferenças = 7  |  % identidade = 80,21%
+------------------------------------------------------------------------
+
+>>> Derivada #85 (len =102)
+Pontuação: 51
+ACCT-TCCGC-TCTAGGATGGGTTGCG-CACCCGCTGTGAATCTATTCG-ATCGGGGGGGAC-ACACCATCGGTACGTCGCCCCGCATA-GCAGAATG-TCCACGCG
+|||| ..||| |||  |||||||||.| |||||.|||||||||| |||| .||||||.|||| |||.|||||| |||||.||||||||| || .|||| ||||.|||
+ACCTAGTCGCATCT--GATGGGTTGGGCCACCCTCTGTGAATCT-TTCGCTTCGGGGTGGACTACATCATCGG-ACGTCCCCCCGCATACGC-TAATGCTCCAGGCG
+Similar = 85  Não similar = 10  Diferenças = 12  |  % identidade = 89,47%
+------------------------------------------------------------------------
+
+>>> Derivada #86 (len =101)
+Pontuação: 46
+ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATT-CGATCGGGGGGGACACACCATCGGTACGTCG-CCCCGCATAGCAGA-ATGTCCACGCG
+||||.||..|..|||.||.|||.|||||.|.|||.| ||||||| ||.||||||||||||||.||.||||| .||| |.||..|||||||| .||||||||..
+ACCTGCCCTTGAAGGGTGTGTTCCGCACTCTCTGCG-ATCTATTCCGTTCGGGGGGGACACAGCACCGGTA-ATCGACTCCCAATAGCAGACGTGTCCACGGT
+Similar = 77  Não similar = 21  Diferenças = 5  |  % identidade = 78,57%
+------------------------------------------------------------------------
+
+>>> Derivada #87 (len =96)
+Pontuação: 59
+ACCTTCCGCTCT-AGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+ || ||||.||| |.||.||||.||| |.||.|||..||||||||||||||||.|||||||||.||||.|||||| |||.|||||||||||||| ||||||
+-CC-TCCGTTCTAATGACGGGTCGCG-AACCACTGCAAATCTATTCGATCGGGTGGGACACACTATCGATACGTC-CCCTGCATAGCAGAATGT-CACGCG
+Similar = 83  Não similar = 12  Diferenças = 6  |  % identidade = 87,37%
+------------------------------------------------------------------------
+
+>>> Derivada #88 (len =102)
+Pontuação: 62
+A-CCTTCCG-CTCTAGGATGGGTTGCGCA-CCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCGGTAC-GTCGCCCCGCATAGCAGAATGTCCACGCG
+| .|||||| ||||||..| ||||||||| ||||||||..||.||||||.||||.||||||||||||||||||| ||..|||||| ||||||||||.||.||||
+ATTCTTCCGCCTCTAGTCT-GGTTGCGCAGCCCGCTGTATATATATTCGTTCGGAGGGGACACACCATCGGTACGGTGCCCCCGC-TAGCAGAATGGCCTCGCG
+Similar = 86  Não similar = 12  Diferenças = 6  |  % identidade = 87,76%
+------------------------------------------------------------------------
+
+>>> Derivada #89 (len =97)
+Pontuação: 48
+ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGAATG-TCCACGCG
+||||..|.|.|.|||||||| ||||||.||||....|||.|||||||||||||||..| ||||| .||||||||.|||||.||||.|||||| .|||| |.
+ACCTCACCCGCCAGGATGGG-TGCGCAACCGCCAGAAATGTATTCGATCGGGGGGTTC-CACCA-GGGTACGTCTCCCCGAATAGTAGAATGCCCCAC-CC
+Similar = 77  Não similar = 19  Diferenças = 5  |  % identidade = 80,21%
+------------------------------------------------------------------------
+
+>>> Derivada #90 (len =102)
+Pontuação: 59
+ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACA-C-ACCATCGGTACGTCGCC-CCGCATAGCAGAATGTCCACGCG
+|||||||..||||||||||||||.|||||.||.|||||..|||.|||||||||||..|| | ||| |||.||||||||| |||||||.|||.|||..||.|||
+ACCTTCCTATCTAGGATGGGTTGTGCACCTGCGGTGAAGGTATCCGATCGGGGGGACCAGCGACC-TCGCTACGTCGCCGCCGCATAACAGCATGGTCAAGCG
+Similar = 83  Não similar = 16  Diferenças = 4  |  % identidade = 83,84%
+------------------------------------------------------------------------
+
+>>> Derivada #91 (len =101)
+Pontuação: 48
+ACCTTCCGCT-CTAGGATGGG-TTGCGCAC-CCGCTGTGAATCTATTCGATCGGGGGGGACACACCA-TCGGTACGTCGCCCCGCATAGCAGAATGTCCACGC-G
+.||||||||| ||||||.||| |||.|||| |||| ||..|.||||||||.| |||||||||.||.| ||.| |...|||||| .|.|||||||||||||||| |
+TCCTTCCGCTCCTAGGAAGGGCTTGTGCACACCGC-GTTCAACTATTCGAAC-GGGGGGACAAACTATTCCG-AGCACGCCCC-TAAAGCAGAATGTCCACGCTG
+Similar = 81  Não similar = 15  Diferenças = 9  |  % identidade = 84,38%
+------------------------------------------------------------------------
+
+>>> Derivada #92 (len =98)
+Pontuação: 59
+ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCGGTACGT-CGCCCCGCATAGCAGAATGTCCACGCG
+||||||||.|||..|||||.|.|| |||.||||||.|||.|||| |.|||||||..|||||||||||.||||| ||||||..||||||||||||||| ||.
+ACCTTCCGATCTGAGATGGTTAGC-CACTCGCTGTAAATATATT-GTTCGGGGGCCACACACCATCGCTACGTCCGCCCCCAATAGCAGAATGTCCA-GCA
+Similar = 82  Não similar = 15  Diferenças = 4  |  % identidade = 84,54%
+------------------------------------------------------------------------
+
+>>> Derivada #93 (len =91)
+Pontuação: 45
+ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+| ||| || | ||||||||||||||.| |..||..||||||| |.| ||.|||.||||.|||||||||| |||||||.|||.| |||..|||||||||.|
+A-CTT-CG-T-TAGGATGGGTTGCGGA-CGACTACGAATCTA-TAG-TCTGGGCGGACGCACCATCGGT-CGTCGCCTCGCCT-GCATGATGTCCACGTG
+Similar = 77  Não similar = 14  Diferenças = 9  |  % identidade = 84,62%
+------------------------------------------------------------------------
+
+>>> Derivada #94 (len =104)
+Pontuação: 42
+ACCTT-CCG-CTC-TAGGATGGGTTGCGCACCCGCTG-TGAATCTATTCG-ATCGGGGGGGACACACCATCGGTACG-TCGCCCCGCATAGCAGAATGTCCACGCG
+||||| ||| ||| .|.||||.|.||.|||.||.||| |||| ||.|.|| ||||||||||||||.|||.||||.|| ..||||.||.||||| ..|||.||.|||
+ACCTTCCCGTCTCACATGATGCGATGTGCAGCCCCTGCTGAA-CTCTGCGCATCGGGGGGGACACGCCAGCGGTCCGAAAGCCCTGCTTAGCA-CCTGTTCATGCG
+Similar = 78  Não similar = 20  Diferenças = 8  |  % identidade = 79,59%
+------------------------------------------------------------------------
+
+>>> Derivada #95 (len =96)
+Pontuação: 58
+ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACA-CCATCGGTACGTCGCCCCGCATAGCA-GAATGTCCACGCG
+|.||..| |||.||||| || || ||||||||||||||||| ||||||||||.|||||.|| ||||.||||||||| ||||||.|.|| |.|||||||||||
+AGCTAGC-CTCGAGGAT-GG-TG-GCACCCGCTGTGAATCT-TTCGATCGGGTGGGACTCATCCATGGGTACGTCG-CCCGCAAATCAGGCATGTCCACGCG
+Similar = 84  Não similar = 10  Diferenças = 8  |  % identidade = 89,36%
+------------------------------------------------------------------------
+
+>>> Derivada #96 (len =104)
+Pontuação: 46
+ACCTTCCGC-TCTAGGATGGGTTGCGCACCCG-CTGTGAATCTATT-CG-ATCGGG-GGGG-ACACACCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+||||||.|| ||||...||||.|.|||||||| ||..||||.|.|| .| |.|||| |||| |.|||||.|||||||||  ||||||.|||||||||||||.|.|.
+ACCTTCGGCTTCTATATTGGGGTTCGCACCCGTCTAAGAATATTTTAAGAACCGGGTGGGGAAAACACCTTCGGTACGT--CCCCGCGTAGCAGAATGTCCGCACT
+Similar = 80  Não similar = 18  Diferenças = 8  |  % identidade = 81,63%
+------------------------------------------------------------------------
+
+>>> Derivada #97 (len =101)
+Pontuação: 36
+ACCTTCCGCTCT-AGGATGGGTTGCGCACCCGCTG-TGAATCTATTCG-ATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+||.|||||.||| .|||...||||.||..|||||| |||||||||||| ||.|||.|||||.|| ||...|||||.....||||||.|.|.||||.|| |.|.
+ACGTTCCGTTCTGTGGAAACGTTGTGCCACCGCTGATGAATCTATTCGCATGGGGTGGGACGCA-CAGTTGTACGGTATTCCGCATGGGATAATGGCC-CCCC
+Similar = 72  Não similar = 26  Diferenças = 5  |  % identidade = 73,47%
+------------------------------------------------------------------------
+
+>>> Derivada #98 (len =100)
+Pontuação: 44
+ACCTTCCGCTCTAGGATGGGTTGC-GCACCCGCTGTGAATCTATTCGATCG-G-GGGGG-ACAC-ACCA-TCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+||.||||| .|||||||||||||| |||||||.||||.|.|  |||.|.|| | ||||| .||| |.|| ||||||.|| |  |||||||.||||.||.|||||||
+ACGTTCCG-GCTAGGATGGGTTGCGGCACCCGTTGTGTAAC--TTCAAACGCGAGGGGGTCCACAAACATTCGGTATGT-G--CCGCATAACAGATTGCCCACGCG
+Similar = 81  Não similar = 13  Diferenças = 12  |  % identidade = 86,17%
+------------------------------------------------------------------------
+
+>>> Derivada #99 (len =92)
+Pontuação: 48
+ACCTTCCGCTCTAGGATGGGTTGCGCACCCGCTGTGAATCTATTCGATCGGGGGGGACACACCATCGGTACGTCGCCCCGCATAGCAGAATGTCCACGCG
+ ||.|||.||.|||||..||||||||| |||.|||||.|||| .||||| |||.|||.||| |..|||||.||||||||||.|||||| |||||||  ||
+-CCGTCCCCTGTAGGAAAGGTTGCGCA-CCGGTGTGACTCTA-GCGATC-GGGTGGATACA-CTCCGGTATGTCGCCCCGCGTAGCAG-ATGTCCA--CG
+Similar = 78  Não similar = 14  Diferenças = 8  |  % identidade = 84,78%
+------------------------------------------------------------------------
+
+>>> Derivada #100 (len =98)
+Pontuação: 59
+ACCTTCCGCTCTAGGATGGGTTGCGCACCC-GCTGTGAATCTATTCGATCGGGGGGGAC-ACACCATCGGTA-CGTCGCCCCGCATAGCAGAATGTCCACGCG
+|||||||||||||||..|.| |.||||||| |||.|| ||.|||||||||||||||||| ||||| |||.|| ||||| ||||||||..|||||| ||.||||
+ACCTTCCGCTCTAGGCAGCG-TCCGCACCCGGCTATG-ATGTATTCGATCGGGGGGGACAACACC-TCGCTACCGTCG-CCCGCATACTAGAATG-CCCCGCG
+Similar = 85  Não similar = 10  Diferenças = 8  |  % identidade = 89,47%
+------------------------------------------------------------------------
+
