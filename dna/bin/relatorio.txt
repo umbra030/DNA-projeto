@@ -1,0 +1,21 @@
+Relatório
+Data: 2025-11-22T00:27:54.311558200
+Parâmetros de pontuação: Similar = 1 Não similar = -1 Diferenças = -2
+ =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  = 
+
+>>> Derivada #1 (len =99)
+Pontuação: 43
+GGAACGCCTTAGAGGGAGCGCATGGAC-GACGCACGGGGGA-CCCATGCGCT-CAGTTACCACCTACCT-ATACGCGTTAGTTGTAATAGGGGCTGATTATCAC
+||..|||||||.|||..|||| | ||| |..||||||||.| ...||||||| |||||||||||..|.| |||||||||||.|| |||| .|| |||||||||.
+GGCTCGCCTTATAGGCCGCGC-T-GACGGGGGCACGGGGCATATTATGCGCTGCAGTTACCACCGCCTTAATACGCGTTAGCTG-AATA-TGG-TGATTATCAT
+Similar = 78  Não similar = 17  Diferenças = 9  |  % identidade = 82,11%
+------------------------------------------------------------------------
+
+>>> Derivada #2 (len =102)
+Pontuação: 45
+GGAACGCCTTAGAGGGAGCGCATGGACGACGCACGGGGGACCCAT-GCGCTCAGTTACCACCTACCTATACGC-GTTAGTTGTAATAGGGGCTGATTA-TCAC
+|||.||||..||..||||||| .|||||||.|.|||||..||||| ...||||.|||..|.||||..|||||| ||||||||||.||||||||.||.| |.||
+GGACCGCCCAAGTCGGAGCGC-CGGACGACACCCGGGGTTCCCATCATTCTCACTTAGTAACTACACATACGCAGTTAGTTGTACTAGGGGCTTATAAGTGAC
+Similar = 76  Não similar = 23  Diferenças = 4  |  % identidade = 76,77%
+------------------------------------------------------------------------
+

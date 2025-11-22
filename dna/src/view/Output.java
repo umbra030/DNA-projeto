@@ -3,47 +3,65 @@ package view;
 import model.Alinhamento;
 import model.Dados;
 
+import java.io.PrintStream;
 import java.util.Scanner;
 
 public class Output {
-    private final Scanner sc = new Scanner(System.in);
+    private final Scanner sc;
+    private final PrintStream out;
+
+    public Output() {
+        this(System.out, new Scanner(System.in));
+    }
+
+    //testes ou redirecionamento de saída
+    public Output(PrintStream out, Scanner sc) {
+        this.out = out;
+        this.sc = sc;
+    }
 
     public void titulo() {
-        System.out.println("Sequenciamento genético");
+        out.println("Sequenciamento genético");
     }
 
     public int quantidade() {
-        System.out.print("Quantas fitas de DNA gerar? ");
+        out.print("Quantas fitas de DNA gerar? ");
         while (true) {
             try {
                 String s = sc.nextLine().trim();
                 return Integer.parseInt(s);
             } catch (Exception ex) {
-                System.out.print("Valor inválido. Digite um número inteiro: ");
+                out.print("Valor inválido. Digite um número inteiro: ");
             }
         }
     }
 
     public void base(String base) {
-        System.out.println("\nGene base:");
-        System.out.println(base);
-        System.out.println();
+        out.println();
+        out.println("Gene base:");
+        out.println(base);
+        out.println();
     }
 
     public void mostrarAlinhamento(int i, Alinhamento a, Dados s) {
-        System.out.println("<>" + i + "° derivada " + "  Pontuação = " + a.getPontuacao());
-        System.out.println(a.getLinhaA());
-        System.out.println(linhaMeio(a.getLinhaA(), a.getLinhaB()));
-        System.out.println(a.getLinhaB());
-        System.out.println();
-        System.out.printf("Similar = %d Não similar = %d Diferenças = %d identidade = %.2f%%%n",
+        out.println("<>" + i + "° derivada  Pontuação = " + a.getPontuacao());
+        out.println(a.getLinhaA());
+        out.println(linhaMeio(a.getLinhaA(), a.getLinhaB()));
+        out.println(a.getLinhaB());
+        out.println();
+        out.printf("Similar = %d Não similar = %d Diferenças = %d identidade = %.2f%%%n",
                 s.getSimilar(), s.getNaoSimilar(), s.getDiferencas(), s.getPorcentagem());
-        System.out.println();
+        out.println();
+    }
+
+    public void mensagem(String msg) {
+        out.println(msg);
     }
 
     private String linhaMeio(String A, String B) {
-        StringBuilder mid = new StringBuilder(A.length());
-        for (int k = 0; k < A.length(); k++) {
+        int len = Math.min(A.length(), B.length());
+        StringBuilder mid = new StringBuilder(len);
+        for (int k = 0; k < len; k++) {
             char x = A.charAt(k), y = B.charAt(k);
             if (x == '-' || y == '-') mid.append(' ');
             else if (x == y) mid.append('|');
@@ -51,4 +69,7 @@ public class Output {
         }
         return mid.toString();
     }
+    
+    public PrintStream getOut() { return out; }
+
 }
